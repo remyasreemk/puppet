@@ -1,5 +1,5 @@
 class httpd {
-	$mycustom = "remya edited"
+	$mycustom = "remya edited again"
 	package { "httpd":
 		ensure => "present",
 	}
